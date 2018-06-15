@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LCO Demo</string>
+    <string name="title_activity_question">Questions</string>
+    <string name="title_activity_question_view">Question</string>
+</resources>
